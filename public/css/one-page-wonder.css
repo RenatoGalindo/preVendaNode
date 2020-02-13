@@ -47,6 +47,11 @@ h6 {
   font-weight: 700;
 }
 
+
+.text-muted1 {
+  color: #ffffff !important;
+}
+
 .navbar-custom .navbar-nav .nav-item .nav-link {
  
   font-size: 0.8rem;
